@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<commands>
+	<compiler>
+		<id>RPGLE</id>
+		<name>RPGLE compiler</name>
+		<sentence parm="5">CRTBNDRPG PGM(#VAR1#/#VAR2#) SRCFILE(#VAR3#/#VAR4#) SRCMBR(#VAR5#)</sentence>
+	</compiler>
+	<compiler>
+		<id>CLLE</id>
+		<name>CLLE compiler</name>
+		<sentence parm="5">CRTBNDCL PGM(#VAR1#/#VAR2#) SRCFILE(#VAR3#/#VAR4#) SRCMBR(#VAR5#)</sentence>
+	</compiler>		
+</commands>

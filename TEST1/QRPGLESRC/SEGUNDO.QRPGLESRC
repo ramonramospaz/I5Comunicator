@@ -1,0 +1,5 @@
+      /FREE
+            dsply 'SEGUNDO ES MIO';
+            dsply 'MIO';
+            *inlr=*on;
+      /END-FREE

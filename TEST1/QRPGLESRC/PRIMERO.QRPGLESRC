@@ -1,0 +1,6 @@
+      /FREE
+            dsply 'PRIMERO ES MIO';
+            dsply 'ESTOY TESTEANDO';
+            dsply 'PROBANDO';
+            *inlr=*on;
+      /END-FREE
